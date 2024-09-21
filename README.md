@@ -4,7 +4,7 @@
    - Mounting and Unmounting File Systems
    - Disk Management: `fdisk`, `lsblk`, `parted`
    - Logical Volume Manager (LVM) Basics
-   - [Understanding RAID Levels](RAID-owerview.md) (0, 1, 5, 6, 10)
+   - [Understanding RAID Levels](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/raid/RAID-owerview.md) (0, 1, 5, 6, 10)
      - Implementing RAID on Linux (mdadm)
 
 ### **Process Management**
