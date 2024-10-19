@@ -32,6 +32,7 @@
    - Common Network Services (DNS, DHCP, FTP, SSH, HTTP)
    - Setting up an SSH Server
    - Understanding HTTP/HTTPS
+       - [HTTP Status codes](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/web/http-status-codes.md)
    - Configuring and Managing DNS and DHCP
    - File Transfer Protocols (FTP, SFTP, SCP)
    - Introduction to Email Servers (Postfix, Dovecot)
