@@ -9,10 +9,21 @@
 
 ### **Process Management**
    - Understanding Processes in Linux
-   - Monitoring Processes (`ps`, `top`, `htop`)
-   - Managing Processes: `kill`, `nice`, `renice`
+   - Monitoring Processes (`ps`, `top`, [`htop`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/htop.md))
+   - Managing Processes:
+       - [`kill`,](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/kill.md)
+       - `nice`,
+       - `renice`,
    - Background and Foreground Jobs (`bg`, `fg`, `jobs`)
    - Scheduling Jobs with `cron` and `at`
+
+### **Automating Tasks and Scripting**
+   - Introduction to Bash Scripting
+       [- BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
+   - Writing Simple Scripts for Automation
+       - [one-liner scripts](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/one-liner-scripts.md)
+   - Automating with `cron` and `systemd`
+   - Introduction to Ansible for Configuration Management
 
 ### **Package Management**
    - Package Managers Overview: APT, DNF, YUM, Zypper
@@ -64,12 +75,6 @@
    - Creating and Managing Virtual Machines
    - Introduction to Containers: Docker Basics
    - Managing Containers with Docker
-
-### **Automating Tasks and Scripting**
-   - Introduction to Bash Scripting
-   - Writing Simple Scripts for Automation
-   - Automating with `cron` and `systemd`
-   - Introduction to Ansible for Configuration Management
 
 ### **Troubleshooting and Performance Tuning**
    - Troubleshooting Boot Issues
