@@ -7,13 +7,16 @@
    - [Understanding RAID Levels](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/raid/RAID-owerview.md) (0, 1, 5, 6, 10)
      - Implementing RAID on Linux (mdadm)
 
-### **Process Management**
+### **Process Management, Automating Tasks and Scripting**
    - Understanding Processes in Linux
-   - Monitoring Processes (`ps`, `top`, `htop`)
-   - Managing Processes: `kill`, `nice`, `renice`
+   - Monitoring Processes (`ps`, `top`, [`htop`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/htop.md))
+   - Managing Processes:
+       - [`kill`,](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/kill.md), [pkill]()
+       - [`nice`,]()
+       - [`renice`,]()
    - Background and Foreground Jobs (`bg`, `fg`, `jobs`)
-   - [Automating with `cron` and `systemd`]
-       - [Scheduling Jobs with `at`]()
+   - [Automating with `cron` and `systemd`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/89051b89d0cc86ab906c87d52b481f488cb60adc/scriptingTools/cron-systemd.md)
+       - [Scheduling Jobs with `at`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/89051b89d0cc86ab906c87d52b481f488cb60adc/scriptingTools/at-atd.md)
    - Introduction to Bash Scripting
        - [BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
        - [regex](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d15f9f968d7087174efaa49b26f9ac6f529e9b29/scriptingTools/regex.md)
@@ -71,12 +74,6 @@
    - Creating and Managing Virtual Machines
    - Introduction to Containers: Docker Basics
    - Managing Containers with Docker
-
-### **Automating Tasks and Scripting**
-   - Introduction to Bash Scripting
-   - Writing Simple Scripts for Automation
-   - Automating with `cron` and `systemd`
-   - Introduction to Ansible for Configuration Management
 
 ### **Troubleshooting and Performance Tuning**
    - Troubleshooting Boot Issues
