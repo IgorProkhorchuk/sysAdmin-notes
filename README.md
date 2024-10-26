@@ -15,8 +15,8 @@
        - [`nice`,]()
        - [`renice`,]()
    - Background and Foreground Jobs (`bg`, `fg`, `jobs`)
-   - [Automating with `cron` and `systemd`]
-       - [Scheduling Jobs with `at`]()
+   - [Automating with `cron` and `systemd`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/89051b89d0cc86ab906c87d52b481f488cb60adc/scriptingTools/cron-systemd.md)
+       - [Scheduling Jobs with `at`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/89051b89d0cc86ab906c87d52b481f488cb60adc/scriptingTools/at-atd.md)
    - Introduction to Bash Scripting
        - [BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
        - [regex](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d15f9f968d7087174efaa49b26f9ac6f529e9b29/scriptingTools/regex.md)
