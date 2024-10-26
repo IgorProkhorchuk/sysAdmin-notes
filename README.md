@@ -19,7 +19,8 @@
 
 ### **Automating Tasks and Scripting**
    - Introduction to Bash Scripting
-       [- BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
+       - [BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
+       - [regex]()
    - Writing Simple Scripts for Automation
        - [one-liner scripts](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/one-liner-scripts.md)
    - Automating with `cron` and `systemd`
