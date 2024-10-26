@@ -7,23 +7,21 @@
    - [Understanding RAID Levels](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/raid/RAID-owerview.md) (0, 1, 5, 6, 10)
      - Implementing RAID on Linux (mdadm)
 
-### **Process Management**
+### **Process Management, Automating Tasks and Scripting**
    - Understanding Processes in Linux
    - Monitoring Processes (`ps`, `top`, [`htop`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/htop.md))
    - Managing Processes:
-       - [`kill`,](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/kill.md)
-       - `nice`,
-       - `renice`,
+       - [`kill`,](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/kill.md), [pkill]()
+       - [`nice`,]()
+       - [`renice`,]()
    - Background and Foreground Jobs (`bg`, `fg`, `jobs`)
-   - Scheduling Jobs with `cron` and `at`
-
-### **Automating Tasks and Scripting**
+   - [Automating with `cron` and `systemd`]
+       - [Scheduling Jobs with `at`]()
    - Introduction to Bash Scripting
        - [BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
-       - [regex]()
+       - [regex](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d15f9f968d7087174efaa49b26f9ac6f529e9b29/scriptingTools/regex.md)
    - Writing Simple Scripts for Automation
        - [one-liner scripts](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/one-liner-scripts.md)
-   - Automating with `cron` and `systemd`
    - Introduction to Ansible for Configuration Management
 
 ### **Package Management**
