@@ -12,7 +12,14 @@
    - Monitoring Processes (`ps`, `top`, `htop`)
    - Managing Processes: `kill`, `nice`, `renice`
    - Background and Foreground Jobs (`bg`, `fg`, `jobs`)
-   - Scheduling Jobs with `cron` and `at`
+   - [Automating with `cron` and `systemd`]
+       - [Scheduling Jobs with `at`]()
+   - Introduction to Bash Scripting
+       - [BASH syntax](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/BASH-syntax.md)
+       - [regex](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d15f9f968d7087174efaa49b26f9ac6f529e9b29/scriptingTools/regex.md)
+   - Writing Simple Scripts for Automation
+       - [one-liner scripts](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/one-liner-scripts.md)
+   - Introduction to Ansible for Configuration Management
 
 ### **Package Management**
    - Package Managers Overview: APT, DNF, YUM, Zypper
