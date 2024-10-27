@@ -7,6 +7,11 @@
    - [Understanding RAID Levels](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/raid/RAID-owerview.md) (0, 1, 5, 6, 10)
      - Implementing RAID on Linux (mdadm)
 
+     
+### **Basic GNU/Linux commands**
+   Here's [a list]() of basic GNU/Linux commands that are essential for navigating and managing a Linux system:
+   Each command can be explored in detail using the `man` command (e.g., `man ls`) to access its manual page.
+
 ### **Process Management, Automating Tasks and Scripting**
    - Understanding Processes in Linux
    - Monitoring Processes (`ps`, `top`, [`htop`](https://github.com/IgorProkhorchuk/sysAdmin-notes/blob/d5673d5d07fd7fc6c851e108bb6db17234edecf7/htop.md))
