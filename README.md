@@ -91,5 +91,6 @@
    - Configuring Databases (MySQL, PostgreSQL)
    - Setting up a Web Hosting Environment (LAMP/LEMP stack)
    - Implementing RAID with Practical Examples
+   - Maven basics
 
 ---
