@@ -34,6 +34,7 @@
 - `ip` - Show/manipulate routing, devices, policy routing, and tunnels.
 - `curl` - Transfer data from or to a server (supports many protocols).
 - `wget` - Download files from the web.
+- [`nmap`](commands/nmap.md) - network scanning tool.
 
 ### Package Management (Varies by Distribution)
 - `apt` - Package manager for Debian-based distributions (e.g., Ubuntu).
