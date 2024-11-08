@@ -1,4 +1,7 @@
-### File and Directory Management
+> tip: click on the topic or command for further information  
+
+
+### [File and Directory Management](fileDirManagement/fileAndDirectoryManagement.md)
 - `ls` - List directory contents.
 - `cd` - Change directory.
 - `pwd` - Print working directory.
@@ -28,13 +31,41 @@
 - `free` - Display memory usage.
 - `uptime` - Show how long the system has been running.
 
-### Networking
-- `ping` - Check connectivity to a host.
-- `ifconfig` - Display network interface configuration (deprecated, use `ip` instead).
-- `ip` - Show/manipulate routing, devices, policy routing, and tunnels.
-- `curl` - Transfer data from or to a server (supports many protocols).
-- `wget` - Download files from the web.
+### [Networking](networking/workWithNetwork.md)
+- [`ping`]() - Check connectivity to a host.
+- [`traceroute`]() - Traces the route packets take to a network host
+- [`mtr`]() Combines ping and traceroute for continuous network diagnostics
+- [`ifconfig`]() - Display network interface configuration (deprecated, use `ip` instead).
+- [`ip`]() - Show/manipulate routing, devices, policy routing, and tunnels.
+- [`curl`]() - Transfer data from or to a server (supports many protocols).
+- [`wget`]() - Download files from the web.
 - [`nmap`](commands/nmap.md) - network scanning tool.
+- [`netcat`](commands/netcat.md) - 
+- [`route`]() - Shows and manipulates the IP routing table
+- [`nmcli`]() - Manages NetworkManager, useful on modern Linux systems for configuring connections
+- [`dhclient`]() - Configures network interfaces using DHCP
+- [`netstat`]() - Displays network connections, routing tables, interface statistics, etc
+- [`ss`]() - Newer tool that replaces netstat, showing socket information.
+- [`arp`]() - Shows and manipulates the ARP cache
+- [`dig`]() - DNS lookup tool that queries DNS servers
+- [`telnet`]() - Tests connectivity to a specific port
+- [`tcpdump`]() - Captures and analyzes network packets
+- [`iftop`]() - Displays bandwidth usage by active connections
+- [`nload`]() - Monitors incoming and outgoing network traffic in real-time.
+- [`iptraf-ng`]() - Interactive, text-based network monitoring tool.
+- [`bmon`]() - Bandwidth monitor that provides a graphical view in the terminal.
+- [`iperf3`]() - Tests network throughput between two hosts
+- [`hping3`]() - Network testing tool that sends TCP, UDP, and ICMP packets
+- [`ssh`]() - Secure Shell for encrypted network connections
+- [`openvpn`]() - Open-source VPN software for creating secure tunnels.
+- [`stunnel`]() - Adds SSL encryption to network connections.
+- [`socat`]() - Versatile utility for establishing bidirectional data transfers over various types of sockets, including TCP and UDP.
+- [`scp`]() - Secure file copy over SSH
+- [`rsync`]() - Synchronizes files and directories between hosts over SSH
+- [`ftp and sftp`]() - Command-line FTP clients (SFTP is secure, FTP is not).
+- [`ethtool`]() - Displays and modifies Ethernet device parameters.
+- [`iwconfig`]() - Configures wireless network interfaces.
+- [`iwlist`]() - Scans for available wireless networks
 
 ### Package Management (Varies by Distribution)
 - `apt` - Package manager for Debian-based distributions (e.g., Ubuntu).
