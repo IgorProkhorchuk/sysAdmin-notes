@@ -103,5 +103,5 @@
 ### Miscellaneous
 - `echo` - Display a line of text.
 - `man` - Display the manual for a command.
-- `history` - Show command history.
+- [`history`](commands/miscellaneous/history.md) - Show command history.
 - `clear` - Clear the terminal screen.
