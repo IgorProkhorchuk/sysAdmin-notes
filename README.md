@@ -78,6 +78,7 @@
    - Introduction to Virtualization (KVM, VirtualBox)
    - Creating and Managing Virtual Machines
    - Introduction to Containers: Docker Basics
+       - [Basic Docker commands](docker_commands_cheat_sheet.md)
    - Managing Containers with Docker
 
 ### **Troubleshooting and Performance Tuning**
